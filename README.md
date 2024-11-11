@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Göktan İren. Since my childhood, my interest in computers continues to increase exponentially every day with the development of technology. As a third-year student at Giresun University, Department of Computer Engineering, I am developing myself to become a qualified computer engineer in the field of data science by mastering Python and Java languages. I am looking for an internship and a job where I can develop more in the sector and share my passion and excitement.
+Hello, I am Göktan İren. Since my childhood, my interest in computers has continued to grow exponentially with the advancement of technology. As a fourth-year student at Giresun University, Department of Computer Engineering, I have developed proficiency in Python, R, SQL, and Java to enhance my skills in data science. I am actively seeking internship and job opportunities where I can further expand my expertise, advance my skills, and share my passion within the industry.
 
 
 ## 🌐 Socials:

@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello, I am Göktan İren. Since my childhood, my interest in computers has continued to grow exponentially with the advancement of technology. As a fourth-year student at Giresun University, Department of Computer Engineering, I have developed proficiency in Python, R, SQL, and Java to enhance my skills in data science. I am actively seeking internship and job opportunities where I can further expand my expertise, advance my skills, and share my passion within the industry.
+Hello, I’m Göktan İren — a Computer Engineering graduate passionate about AI, computer vision, and data-driven technologies.
+I’m currently working as a Junior Presales Engineer at ODYA Technology, where I combine my technical background with solution-oriented thinking to support digital transformation projects.
+Skilled in Python, OpenCV, TensorFlow, and SQL, I aim to keep improving myself in artificial intelligence and image processing to create innovative, real-world solutions.
 
 
 ## 🌐 Socials:
